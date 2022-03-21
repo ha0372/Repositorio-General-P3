@@ -1,0 +1,10 @@
+public void ex(){
+	String inicio 0 null;
+	String fin = null;
+
+	inicio = "";
+	if(inicio.isEmpty() && inicio.equals("")){
+
+
+ }
+}
